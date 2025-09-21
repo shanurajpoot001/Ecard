@@ -33,7 +33,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 1,
+    id: 4,
     name: "Nike Air Max 270 React",
     price: 299.49,
     oldPrice: 350.99,
@@ -41,7 +41,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 2,
+    id: 5,
     name: "Adidas Men Running Sneakers",
     price: 249.99,
     oldPrice: 299.99,
@@ -49,7 +49,7 @@ const Products = [
     tag: "NEW"
   },
   {
-    id: 3,
+    id: 5,
     name: "Casual Bag",
     price: 199.49,
     oldPrice: 220.99,
@@ -58,7 +58,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 1,
+    id: 7,
     name: "Nike Air Max 270 React",
     price: 299.49,
     oldPrice: 350.99,
@@ -66,7 +66,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 2,
+    id: 8,
     name: "Adidas Men Running Sneakers",
     price: 249.99,
     oldPrice: 299.99,
@@ -74,7 +74,7 @@ const Products = [
     tag: "NEW"
   },
   {
-    id: 3,
+    id: 9,
     name: "Casual Bag",
     price: 199.49,
     oldPrice: 220.99,
@@ -83,7 +83,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 1,
+    id: 10,
     name: "Nike Air Max 270 React",
     price: 299.49,
     oldPrice: 350.99,
@@ -91,7 +91,7 @@ const Products = [
     tag: "HOT"
   },
   {
-    id: 2,
+    id: 11,
     name: "Adidas Men Running Sneakers",
     price: 249.99,
     oldPrice: 299.99,
@@ -99,7 +99,7 @@ const Products = [
     tag: "NEW"
   },
   {
-    id: 3,
+    id: 12,
     name: "Casual Bag",
     price: 199.49,
     oldPrice: 220.99,
